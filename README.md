@@ -25,13 +25,13 @@ The dataset used for this project is on [Nashville Housing Data for Data Cleanin
   
 2. Make sure you have an SQL database management system installed eg SSMS.
 
-3. Execute the SQL scripts provided in the `sql` directory sequentially to create and populate the necessary tables.
+3. Execute the SQL scripts provided in the [SQL Code]( https://github.com/NimratMudhar/Nashville-Housing-Data-Cleaning.sql/blob/main/SQL%20) directory sequentially to create and populate the necessary tables.
 
 ## Usage
 
 1. Open your SQL database management system and connect to the database where you executed the scripts.
 
-2. Use SQL queries provided in the `sql` directory to perform various data cleaning tasks on the Nashville housing dataset.
+2. Use SQL queries provided in the [SQL Code]( https://github.com/NimratMudhar/Nashville-Housing-Data-Cleaning.sql/blob/main/SQL%20) directory to perform various data cleaning tasks on the Nashville housing dataset.
 
 3. Document your steps and changes within the SQL scripts for future reference.
 
