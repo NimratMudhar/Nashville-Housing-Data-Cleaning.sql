@@ -17,9 +17,8 @@ In this project, we leverage the power of SQL to perform data cleaning tasks, en
 
 ## Dataset
 
-The dataset used for this project contains COVID-19 data, including information about confirmed cases, people vaccinated, time periods, and deaths in different regions. The dataset was taken from [Our World In Data](https://ourworldindata.org/covid-deaths) The data is structured and can be loaded into a SQL database for analysis. 
- - [CovidDeaths.xlsx](https://github.com/NimratMudhar/Data-Analytics-Projects/blob/main/CovidDeaths.xlsx)
- - [CovidVaccinations.xlsx](https://github.com/NimratMudhar/Data-Analytics-Projects/blob/main/CovidVaccinations.xlsx)
+The dataset used for this project is on [Nashville Housing Data for Data Cleaning.csv](https://github.com/NimratMudhar/Nashville-Housing-Data-Cleaning.sql/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv).
+
 ## Installation
 
 1. Clone this repository to your local machine
